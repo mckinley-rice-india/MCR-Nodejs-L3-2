@@ -9,7 +9,7 @@
 To complete this challenge, you will need to write a  web app, and provide us the source files to be built.
 
 
-This challenge is expected to take about 4 hours.
+This challenge is expected to take about 2-4 hours.
 
 The [Indego GeoJSON station status API](https://www.rideindego.com/stations/json/) provides a realtime snapshot of the number of bikes available, number of open docks available (not currently containing a bike), and total number of docks at every station. This API is free and requires no API key.
 
